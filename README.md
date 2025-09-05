@@ -20,7 +20,9 @@ This analysis was done using **Power BI** to build an interactive dashboard.
 
 ### 2️⃣ Road & Lighting Conditions  
 - Accidents by Lighting Condition  
-- Accidents by Roadway Surface  
+- Accidents by Roadway Surface
+  <img width="1166" height="652" alt="image" src="https://github.com/user-attachments/assets/88b643ca-aa14-4d68-a35c-9b974426e5d9" />
+
 
 ### 3️⃣ Severity Analysis  
 - Fatal vs Total Injuries  
