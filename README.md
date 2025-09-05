@@ -25,7 +25,9 @@ This analysis was done using **Power BI** to build an interactive dashboard.
 
 
 ### 3️⃣ Severity Analysis  
-- Fatal vs Total Injuries  
+- Fatal vs Total Injuries
+  ![Uploading image.png…]()
+
 
 ---
 
