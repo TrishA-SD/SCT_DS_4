@@ -16,7 +16,9 @@ This analysis was done using **Power BI** to build an interactive dashboard.
 ### 1️⃣ Time Analysis  
 - Accidents by Day of Week  
 - Accidents by Hour  
-- Accidents by Month  
+- Accidents by Month
+  <img width="1120" height="656" alt="image" src="https://github.com/user-attachments/assets/6ebe5d02-35ff-4285-96d0-66ac562b3c7a" />
+
 
 ### 2️⃣ Road & Lighting Conditions  
 - Accidents by Lighting Condition  
